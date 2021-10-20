@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @minhunt
+- 👀 I’m interested in reading and product designs
+- 🌱 I’m currently learning python for machine learning
+- 📫 You can reach me by sending email to chiangminghang@outlook.com
